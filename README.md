@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="parsasam.gif" />
+  <img src="https://raw.githubusercontent.com/TroddenSpade/troddenspade/master/parsasam.gif" />
 </p>
 
 
