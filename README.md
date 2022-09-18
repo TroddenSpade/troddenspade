@@ -3,23 +3,52 @@
 </p>
 
 
-### Hi there 👋
-<!--
-[![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=troddenspade&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troddenspade&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
--->
+### 👋 Hi there, I'm Parsa
+
+- 🔭 I am currently a senior undergraduate student studying computer engineering at K. N. Toosi University of Technology.
+- 🌱 I'm broadly enthusiastic about doing research in Artificial Intelligence area, more specifically anything linked with Reinforcement Learning, from theoretical concepts to practical applications.
+- 👨🏻‍💻 I strengthen my knowledge and hone my skills and ideas independently by implementing and combining the renowned problems in AI. You can find some of the projects I have worked on in the [repository tab](https://github.com/TroddenSpade?tab=repositories) and the selected ones below.
+
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/troddenspade">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=troddenspade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=troddenspade&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
+
+
+### 📫 How to reach me:
+
+<p align="center">
+<a href="https://psam.xyz">
+  <img alt="Website" src="https://img.shields.io/website?up_color=CE4676&up_message=psam.xyz&url=https%3A%2F%2Fpsam.xyz">
+</a>
+<a href="mailto:99psam@gmail.com">
+  <img src="https://img.shields.io/badge/-99psam@email.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/parsa-samadnejad-767ab6114">
+  <img src="https://img.shields.io/badge/-Parsa%20Samadnejad-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/TroddenSpade">
+  <img src="https://img.shields.io/badge/-@troddenspade-1D9BF0?style=flat&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://kaggle.com/parsasam">
+  <img src="https://img.shields.io/badge/-@troddenspade-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+</a>
+</p>
+
 
 <!--
 **TroddenSpade/troddenspade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
