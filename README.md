@@ -13,6 +13,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=troddenspade&theme=dracula&margin-w=18&margin-h=18&column=6&row=1"/>
+</p>
+
+<p align="center">
 <a href="https://github.com/troddenspade">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=troddenspade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=troddenspade&layout=compact&langs_count=8&theme=dracula"/>
