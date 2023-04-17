@@ -10,7 +10,7 @@
 - 👨🏻‍💻 I strengthen my knowledge and hone my skills and ideas independently by implementing and combining the renowned problems in AI. You can find some of the projects I have worked on in the [repository tab](https://github.com/TroddenSpade?tab=repositories) and the selected ones below.
 
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=troddenspade&theme=dracula&margin-w=18&margin-h=18&column=6&row=1"/>
@@ -42,8 +42,10 @@
 <a href="https://kaggle.com/parsasam">
   <img src="https://img.shields.io/badge/-@troddenspade-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
 </a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=troddenspade&style=flat-square&color=CE4676"/>
+</a>
 </p>
-
 
 <!--
 **TroddenSpade/troddenspade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
