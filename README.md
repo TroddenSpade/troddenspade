@@ -27,7 +27,7 @@
 ### 📫 How to reach me:
 
 <p align="center">
-<a href="https://psam.xyz">
+<a href="https://parsasam.ir">
   <img alt="Website" src="https://img.shields.io/website?up_color=CE4676&up_message=psam.xyz&url=https%3A%2F%2Fpsam.xyz">
 </a>
 <a href="mailto:99psam@gmail.com">
