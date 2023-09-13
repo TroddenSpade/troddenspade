@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://parsasam.ir">
-  <img alt="Website" src="https://img.shields.io/website?up_color=CE4676&up_message=psam.xyz&url=https%3A%2F%2Fpsam.xyz">
+  <img alt="Website" src="https://img.shields.io/website?up_color=CE4676&up_message=parsasam.ir&url=https%3A%2F%2Fparsasam.ir">
 </a>
 <a href="mailto:99psam@gmail.com">
   <img src="https://img.shields.io/badge/-99psam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
